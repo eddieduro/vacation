@@ -28,8 +28,21 @@ hr {
 .modal {
   width: 80%;
   margin-left: 9%;
+  margin-top:100px;
 }
 
-.btn-middle{
-  margin-left: 47%;
+.roundimage {
+  border-radius: 50%;
+}
+
+#testimonials {
+  padding-bottom: 20px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+body {
+  font-family: sans-serif;
 }
